@@ -1,4 +1,4 @@
---index-url http://mirrors.aliyun.com/pypi/simple/
+--index-url https://mirrors.aliyun.com/pypi/simple/
 Flask==0.10.1
 Werkzeug==0.9.4
 pyshark==0.3.3
